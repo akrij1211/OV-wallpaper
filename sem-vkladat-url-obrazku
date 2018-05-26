@@ -27,7 +27,7 @@
         "user":                 "#8B92A3"
     },
     "images": {
-        "background":           "http://bdfjade.com/data/out/145/6473517-full-hd-wallpaper.jpg",
+        "background":           "http://www.tokkoro.com/picsup/429686-mortal-kombat-wallpaper-full-hd.jpg",
         "playback":             null,
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
@@ -170,6 +170,5 @@
     },
     "emotes": {
         "custom_test": "https://cdn.radiant.dj/rcs/icons/test_custom.png"
-        "djsona": "https://i.imgur.com/p9j9onO.gif",
     }
 }
