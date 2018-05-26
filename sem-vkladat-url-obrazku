@@ -1,7 +1,7 @@
 {
     "room":                     "Radiant Music",
     "author":                   "Origin",
-    "icon":                     "https://cdn.radiant.dj/rcs/icons/radiant/logo.png",
+    "icon":                     "https://alternative.me/icons/imgur.jpg",
     "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
     "rules": {
         "allowAutorespond":     true,
