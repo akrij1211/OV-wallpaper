@@ -28,7 +28,7 @@
     },
     "images": {
         "background":           "https://trello-attachments.s3.amazonaws.com/5a85d1b136e409c4e00751c6/5b0977ccf674845da2ba8f73/5b88c5c219ed37c65cd46d824bba528b/1.png",
-        "playback":             "https://i.imgur.com/79Nt68D.png",
+        "playback":             null,
         "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
         "host":                 null,
