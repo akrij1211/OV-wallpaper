@@ -29,12 +29,12 @@
     "images": {
         "background":           "https://trello-attachments.s3.amazonaws.com/5a85d1b136e409c4e00751c6/5b0977ccf674845da2ba8f73/5b88c5c219ed37c65cd46d824bba528b/1.png",
         "playback":             null,
-        "admin":                "https://cdn.radiant.dj/rcs/icons/radiant/admin.png",
+        "admin":                "https://trello-attachments.s3.amazonaws.com/5a85d1b136e409c4e00751c6/5b0977ccf674845da2ba8f73/5facb01b9aff6bba5838327bdd828f1d/33734196_10209277559736588_1803453799767998464_n.jpg",
         "ambassador":           "https://cdn.radiant.dj/rcs/icons/radiant/ambassador.png",
-        "host":                 null,
-        "cohost":               "https://cdn.radiant.dj/rcs/icons/radiant/cohost.png",
-        "manager":              "https://cdn.radiant.dj/rcs/icons/radiant/manager.png",
-        "bouncer":              "https://cdn.radiant.dj/rcs/icons/radiant/bouncer.png",
+        "host":                 "https://trello-attachments.s3.amazonaws.com/5a85d1b136e409c4e00751c6/5b0977ccf674845da2ba8f73/5facb01b9aff6bba5838327bdd828f1d/33734196_10209277559736588_1803453799767998464_n.jpg",
+        "cohost":               "https://trello-attachments.s3.amazonaws.com/5a85d1b136e409c4e00751c6/5b0977ccf674845da2ba8f73/5facb01b9aff6bba5838327bdd828f1d/33734196_10209277559736588_1803453799767998464_n.jpg",
+        "manager":              "https://trello-attachments.s3.amazonaws.com/5a85d1b136e409c4e00751c6/5b0977ccf674845da2ba8f73/5facb01b9aff6bba5838327bdd828f1d/33734196_10209277559736588_1803453799767998464_n.jpg",
+        "bouncer":              "https://trello-attachments.s3.amazonaws.com/5a85d1b136e409c4e00751c6/5b0977ccf674845da2ba8f73/5facb01b9aff6bba5838327bdd828f1d/33734196_10209277559736588_1803453799767998464_n.jpg",
         "rdj":                  "https://cdn.radiant.dj/rcs/icons/radiant/residentdj.png",
         "subscriber":           null,
         "silversubscriber":     "https://cdn.radiant.dj/rcs/icons/radiant/subscriber.png"
