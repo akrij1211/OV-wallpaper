@@ -14,17 +14,17 @@
         "forceSmartVote":       false
     },
     "ccc": {
-        "admin":                "#42A5DC",
-        "ambassador":           "#84B423",
-        "host":                 null,
-        "cohost":               "#F3508F",
-        "manager":              "#F3508F",
-        "bouncer":              "#F3508F",
-        "rdj":                  "#5DB4FF",
+        "admin":                "rgba(255, 214, 51, 0.75)",
+        "ambassador":           "rgba(255, 214, 51, 0.75)",
+        "host":                 "rgba(255, 214, 51, 0.75)",
+        "cohost":               "rgba(255, 214, 51, 0.75)",
+        "manager":              "rgba(255, 214, 51, 0.75)",
+        "bouncer":              "rgba(255, 214, 51, 0.75)",
+        "rdj":                  "rgba(255, 214, 51, 0.75)",
         "subscriber":           "#A1A6B3",
         "silversubscriber":     "#A1A6B3",
-        "friend":               "#B35D88",
-        "user":                 "#8B92A3"
+        "friend":               "rgba(71, 209, 71, 0.75)",
+        "user":                 "rgba(134, 0, 179, 0.65)"
     },
     "images": {
         "background":           "https://trello-attachments.s3.amazonaws.com/5a85d1b136e409c4e00751c6/5b0977ccf674845da2ba8f73/5b88c5c219ed37c65cd46d824bba528b/1.png",
