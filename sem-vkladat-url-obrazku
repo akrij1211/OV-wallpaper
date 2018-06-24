@@ -2,7 +2,7 @@
     "room":                     "Radiant Music",
     "author":                   "Origin",
     "icon":                     "http://media.idownloadblog.com/wp-content/uploads/2015/03/Imgur-2.0-for-iOS-app-icon-small.png",
-    "css":                      "https://cdn.radiant.dj/rcs/rs_room.css",
+    "css":                      "https://rawgit.com/akrij1211/OV-wallpaper/master/CSS",
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
