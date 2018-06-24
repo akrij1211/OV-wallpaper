@@ -1,8 +1,8 @@
 {
-    "room":                     "Radiant Music",
-    "author":                   "Origin",
-    "icon":                     "http://media.idownloadblog.com/wp-content/uploads/2015/03/Imgur-2.0-for-iOS-app-icon-small.png",
-    "css":                      "https://rawgit.com/akrij1211/OV-wallpaper/master/CSS",
+    "room":                     "OnlineVision",
+    "author":                   "akrij1211",
+    "icon":                     "https://trello-attachments.s3.amazonaws.com/5a85d1b136e409c4e00751c6/5b17d80446c34311e1c0e257/e9e07ec3340ab935e75fbc4fa312aa26/Webp.net-resizeimage.png",
+
     "rules": {
         "allowAutorespond":     true,
         "allowAutowoot":        true,
